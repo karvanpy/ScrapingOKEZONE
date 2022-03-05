@@ -13,3 +13,8 @@ Install the library we need like to your environment system (or wherever you ins
 pip install requests bs4 pandas
 ```
 Then, ```python3 fetch_articles_by_search_query.py```
+
+# Thank you :D
+Support me on:
+* KaryaKarsa: 
+[![KaryaKarsa](https://img.shields.io/badge/KaryaKarsa-Support-ff69b4)](https://karyakarsa.com/karvanpy/support)
